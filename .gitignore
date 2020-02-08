@@ -49,5 +49,4 @@ node_modules/@types/node/ts3.5/index.d.ts
 node_modules/@types/node/ts3.5/util.d.ts
 node_modules/@types/node/ts3.5/wasi.d.ts
 src/index.ts
-.gitignore
 src/index.ts
