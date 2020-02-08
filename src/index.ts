@@ -12,5 +12,5 @@ function istransactionrow(value: string) {
   const row: string[] = value.split(",");
   if (parseInt(row[2]) > 1) return value;
 }
-
+// test
 console.log(transactions);
